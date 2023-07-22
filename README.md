@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontoge&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on Learning Management Platforms & FiveM Mods
+- 🔭 I’m currently working on FiveM Mods
 - 🌱 I’m currently learning Graphics Programming & Mobile App Dev
 - 📫 How to reach me: widenhousematthew@gmail.com
 - 😄 Pronouns: he/his
