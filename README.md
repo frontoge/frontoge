@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on FiveM Mods
 - 🌱 I’m currently learning Graphics Programming & Mobile App Dev
 - 📫 How to reach me: widenhousematthew@gmail.com
-- 😄 Pronouns: he/his
 <!--
 **frontoge/frontoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
