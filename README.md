@@ -1,8 +1,8 @@
 ### Hi there, I'm Matt 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontoge&hide=issues&count_private=true&show_icons=true&theme=radical&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontoge&hide=issues&count_private=true&show_icons=true&theme=tokyonight&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontoge&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontoge&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on FiveM Mods
 - 🌱 I’m currently learning Graphics Programming & Mobile App Dev
